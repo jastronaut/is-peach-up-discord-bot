@@ -45,4 +45,4 @@ async function main() {
 	}
 }
 
-setInterval(() => main(), 120000);
+setInterval(() => main(), 300000);

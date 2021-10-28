@@ -2,10 +2,10 @@
   "name": "is-peach-online",
   "version": "1.0.0",
   "description": "checks if peach is online",
-  "main": "index.js",
+  "main": "peach-online-bot.js",
   "type": "module",
   "scripts": {
-    "start": "node ./bot.js"
+    "start": "node ./peach-online-bot.js"
   },
   "author": "jastronaut",
   "license": "MIT",
