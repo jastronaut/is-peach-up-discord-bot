@@ -4,6 +4,9 @@
   "description": "checks if peach is online",
   "main": "peach-online-bot.js",
   "type": "module",
+  "engines": {
+    "node": "16.x"
+  },
   "scripts": {
     "start": "node ./peach-online-bot.js"
   },
